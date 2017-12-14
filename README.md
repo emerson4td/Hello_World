@@ -1,2 +1,4 @@
 # Hello_World
-First of many repositories
+#python
+print('First of many repositories')
+print('Try to figure out what is Github)
